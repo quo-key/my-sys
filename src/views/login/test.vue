@@ -1,12 +1,14 @@
 <template>
-<div class="App-container">
-  <router-view></router-view>
-</div>
+  <login></login>
 </template>
 
 <script>
+import login from '.';
 
 export default {
+  components: {
+    login,
+  },
 };
 </script>
 

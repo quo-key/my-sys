@@ -1,12 +1,10 @@
 <template>
-<div class="App-container">
-  <router-view></router-view>
-</div>
+  <div>找不到页面404</div>
 </template>
 
 <script>
-
 export default {
+
 };
 </script>
 
